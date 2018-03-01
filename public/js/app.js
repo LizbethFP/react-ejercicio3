@@ -1,9 +1,9 @@
-
+/*
 const header = () => {
   const h1 = React.DOM.h1;
   const p = React.DOM.p;
   const title = 'Getting started';
-  // const el = 
+  const el = 
 
 }
 
@@ -11,7 +11,7 @@ ReactDOM.render(
   header(),
   document.querySelector('header')
 );
-
+*/
 
 
 
